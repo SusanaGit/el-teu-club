@@ -1,0 +1,11 @@
+Susana;Figueroa Aguilar;Carrer Hola 123;746384928;susana.figueroa@gmail.com;01/04/2024 00:00:00;Ioga,Pilates;0;
+Carlos;Sanchez Molina;Avinguda Sempre Viva 456;726384926;carlos.sanchez@hotmail.com;15/03/2024 00:00:00;Futbol,Basquetbol;1;
+Marta;Ruiz Fernandez;Diagonal 789;7364827169;marta.ruiz@yahoo.com;10/04/2024 00:00:00;Natació,Tennis,;2;
+Pedro;Gomez Jimenez;Carrer Principal 456;847564736;pedro.gomez@outlook.com;20/05/2024 00:00:00;Basquetbol,Futbol;3;
+Laura;Hernández Perez;Avinguda del Sol 789;748365748;laura.hernandez@example.net;05/06/2024 00:00:00;Pilates,Natacio;4;
+Javier;Rodríguez Gutierrez;Carrer del Mar 101;738475638;javier.rodriguez@protonmail.com;15/07/2024 00:00:00;Tennis,Golf;5;
+Maria;Martinez Ruiz;Avinguda del Riu 202;647385948;maria.martinez@live.com;30/08/2024 00:00:00;Natació,Ioga;6;
+Antonio;Fernandez López;Carrer del Bosc 303;648593827;antonio.fernandez@icloud.com;10/09/2024 00:00:00;Futbol,Basquetbol;7;
+Sofía;Garcia Perez;Avinguda de la Lluna 404;756483726;sofia.garcia@me.com;25/10/2024 00:00:00;Pilates,Zumba;8;
+Daniel;Diaz Sanchez;Carrer de l'Aire 505;857463728;daniel.diaz@aol.com;10/11/2024 00:00:00;Basquetbol,Tennis;9;
+Lucía;Gonzalez Martinez;Avinguda de l'Estrella 606;637485932;lucia.gonzalez@tutanota.com;05/12/2024 00:00:00;Natacio,Golf;10;

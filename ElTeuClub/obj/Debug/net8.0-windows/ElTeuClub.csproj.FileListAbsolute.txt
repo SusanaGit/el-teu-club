@@ -1,0 +1,17 @@
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\bin\Debug\net8.0-windows\ElTeuClub.exe
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\bin\Debug\net8.0-windows\ElTeuClub.deps.json
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\bin\Debug\net8.0-windows\ElTeuClub.runtimeconfig.json
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\bin\Debug\net8.0-windows\ElTeuClub.dll
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\bin\Debug\net8.0-windows\ElTeuClub.pdb
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.Inici.resources
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.Properties.Resources.resources
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.csproj.GenerateResource.cache
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.AssemblyInfoInputs.cache
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.AssemblyInfo.cs
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.csproj.CoreCompileInputs.cache
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.dll
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\refint\ElTeuClub.dll
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.pdb
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ElTeuClub.genruntimeconfig.cache
+C:\Users\shiun\source\repos\ElTeuClub\ElTeuClub\obj\Debug\net8.0-windows\ref\ElTeuClub.dll
